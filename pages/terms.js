@@ -1,1 +1,4 @@
-// صفحة الشروط
+// صفحة الشروط// pages/contact.js
+export default function ContactPage() {
+  return <div>Contact Page</div>;
+}
